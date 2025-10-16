@@ -22,9 +22,6 @@ Calculadora de Bolso Minimalista é um projeto simples em Python desenvolvido pa
 
 ## ⚙️ Funcionalidades Principais
 
-<details>
-<summary>Clique para expandir</summary>
-
 ### Core Features
 
 - ⭐ Solicita dois números ao usuário via terminal
